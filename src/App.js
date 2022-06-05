@@ -24,7 +24,7 @@ function App() {
             }}
             icon={<DownloadOutlined />}
           >
-            관리자페이지
+            상품 올리기
           </Button>
         </div>
       </div>
